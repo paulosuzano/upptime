@@ -6,47 +6,47 @@ sites:
   - name: Site Detran
     url: https://www.detran.ms.gov.br
     checkContent: "Institucional"
-  - name: WWW2 Valid
-    url: https://www2.detran.ms.gov.br/detranet/valid/indexx.asp
-    checkContent: "Consultas"
-  - name: WWW2 Arrecadacao
-    url: https://ws-bb.detran.ms.gov.br/ws/ArrecadacaoService?wsdl
-    checkContent: "ArrecadacaoService"
-  - name: DetranWEB
-    url: https://web.detran.ms.gov.br/detran/validartokenacesso?uid=123456
-    checkContent: "999"
-  - name: CONCENTRADOR VPN - OI
-    url: 189.11.240.74
-    check: "tcp-ping"
-    maxResponseTime: 1000
-  - name: DEDICADO EMBRATEL
-    url: 189.86.4.49
-    check: "tcp-ping"
-    maxResponseTime: 1000
-  - name: DEDICADO OI
-    url: 200.199.218.129
-    check: "tcp-ping"
-    maxResponseTime: 1000
-  - name: DNS1 - Detran
-    url: ns1.detran.ms.gov.br
-    check: "tcp-ping"
-    maxResponseTime: 1000
-  - name: DNS2 - Detran
-    url: ns2.detran.ms.gov.br
-    check: "tcp-ping"
-    maxResponseTime: 1000
-  - name: VPN Embratel
-    url: 200.183.148.194
-    check: "tcp-ping"
-    maxResponseTime: 1000
-  - name: VPN Oi
-    url: 200.199.218.188
-    check: "tcp-ping"
-    maxResponseTime: 1000
-  - name: Paulo Casa
-    url: paulosuzano.ddns.net
-    check: "tcp-ping"
-    maxResponseTime: 1000
+#  - name: WWW2 Valid
+#    url: https://www2.detran.ms.gov.br/detranet/valid/indexx.asp
+#    checkContent: "Consultas"
+#  - name: WWW2 Arrecadacao
+#    url: https://ws-bb.detran.ms.gov.br/ws/ArrecadacaoService?wsdl
+#    checkContent: "ArrecadacaoService"
+#  - name: DetranWEB
+#    url: https://web.detran.ms.gov.br/detran/validartokenacesso?uid=123456
+#    checkContent: "999"
+#  - name: CONCENTRADOR VPN - OI
+#    url: 189.11.240.74
+#    check: "tcp-ping"
+#    maxResponseTime: 1000
+#  - name: DEDICADO EMBRATEL
+#    url: 189.86.4.49
+#    check: "tcp-ping"
+#    maxResponseTime: 1000
+#  - name: DEDICADO OI
+#    url: 200.199.218.129
+#    check: "tcp-ping"
+#    maxResponseTime: 1000
+#  - name: DNS1 - Detran
+#    url: ns1.detran.ms.gov.br
+#    check: "tcp-ping"
+#    maxResponseTime: 1000
+ # - name: DNS2 - Detran
+ #   url: ns2.detran.ms.gov.br
+ #   check: "tcp-ping"
+ #   maxResponseTime: 1000
+ # - name: VPN Embratel
+ #   url: 200.183.148.194
+ #   check: "tcp-ping"
+ #   maxResponseTime: 1000
+ # - name: VPN Oi
+ #   url: 200.199.218.188
+ #   check: "tcp-ping"
+ #   maxResponseTime: 1000
+ # - name: Paulo Casa
+ #   url: paulosuzano.ddns.net
+ #   check: "tcp-ping"
+ #   maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
