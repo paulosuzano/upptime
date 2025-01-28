@@ -43,12 +43,14 @@ sites:
     maxResponseTime: 1000
   - name: VPN Embratel
     url: 200.183.148.194
-    check: "tcp-ping"
-    maxResponseTime: 1000
+    type: "ping"
+#    check: "tcp-ping"
+#    maxResponseTime: 1000
   - name: VPN Oi
     url: 200.199.218.188
-    check: "tcp-ping"
-    maxResponseTime: 1000
+    type: "ping"
+#    check: "tcp-ping"
+#    maxResponseTime: 1000
 #  - name: Paulo Casa
 #    url: paulosuzano.ddns.net
 #    check: "tcp-ping"
