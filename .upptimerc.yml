@@ -6,15 +6,19 @@ sites:
   - name: Site Detran
     url: https://www.detran.ms.gov.br
     checkContent: "Institucional"
+    __dangerous__insecure: true
   - name: WWW2 Valid
     url: https://www2.detran.ms.gov.br/detranet/valid/indexx.asp
     checkContent: "Consultas"
+    __dangerous__insecure: true
   - name: WWW2 Arrecadacao
     url: https://ws-bb.detran.ms.gov.br/ws/ArrecadacaoService?wsdl
     checkContent: "ArrecadacaoService"
+    __dangerous__insecure: true
   - name: DetranWEB
     url: https://web.detran.ms.gov.br/detran/validartokenacesso?uid=123456
     checkContent: "999"
+    __dangerous__insecure: true
   - name: CONCENTRADOR VPN - OI
     url: 189.11.240.74
     check: "tcp-ping"
@@ -29,11 +33,13 @@ sites:
     maxResponseTime: 1000
   - name: DNS1 - Detran
     url: ns1.detran.ms.gov.br
-    check: "tcp-ping"
+    type: "ping"
+#    check: "tcp-ping"
     maxResponseTime: 1000
   - name: DNS2 - Detran
     url: ns2.detran.ms.gov.br
-    check: "tcp-ping"
+    type: "ping"
+#    check: "tcp-ping"
     maxResponseTime: 1000
   - name: VPN Embratel
     url: 200.183.148.194
@@ -43,10 +49,10 @@ sites:
     url: 200.199.218.188
     check: "tcp-ping"
     maxResponseTime: 1000
-  - name: Paulo Casa
-    url: paulosuzano.ddns.net
-    check: "tcp-ping"
-    maxResponseTime: 1000
+#  - name: Paulo Casa
+#    url: paulosuzano.ddns.net
+#    check: "tcp-ping"
+#    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
