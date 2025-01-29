@@ -4,19 +4,19 @@
     "url": "ns1.detran.ms.gov.br",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-detran",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 150,
+    "timeDay": 150,
+    "timeWeek": 150,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-01-29": 1168,
+      "2025-01-29": 1185,
       "2025-01-28": 333
     }
   }
