@@ -5,9 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: DNS1 - Detran
     url: ns1.detran.ms.gov.br
-    type: "ping"
-#    check: "tcp-ping"
-    maxResponseTime: 1000
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
