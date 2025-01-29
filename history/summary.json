@@ -1,6 +1,6 @@
 [
   {
-    "name": "DNS1 - Detran",
+    "name": "DNS1-Detran",
     "url": "ns1.detran.ms.gov.br",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-detran",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-29": 1159,
+      "2025-01-29": 1168,
       "2025-01-28": 333
     }
   }
