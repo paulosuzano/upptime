@@ -22,7 +22,6 @@ sites:
   - name: CONCENTRADOR VPN - OI
     url: 189.11.240.74
     check: "tcp-ping"
-    port: 443
   - name: DEDICADO EMBRATEL
     url: 189.86.4.49
     check: "tcp-ping"
