@@ -42,11 +42,11 @@ sites:
   - name: VPN Embratel
     url: 200.183.148.194
     check: "tcp-ping"
-    port: 443
+#    port: 443
   - name: VPN Oi
     url: 200.199.218.188
     check: "tcp-ping"
-    port: 443
+#    port: 443
 #    maxResponseTime: 1000
 #  - name: Paulo Casa
 #    url: paulosuzano.ddns.net
