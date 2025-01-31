@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2651,
-    "timeDay": 2963,
-    "timeWeek": 2651,
-    "timeMonth": 2651,
-    "timeYear": 2651,
+    "time": 2625,
+    "timeDay": 2820,
+    "timeWeek": 2625,
+    "timeMonth": 2625,
+    "timeYear": 2625,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1313,
-    "timeDay": 958,
-    "timeWeek": 1313,
-    "timeMonth": 1313,
-    "timeYear": 1313,
+    "time": 1264,
+    "timeDay": 937,
+    "timeWeek": 1264,
+    "timeMonth": 1264,
+    "timeYear": 1264,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ws-bb.detran.ms.gov.br.ico",
     "slug": "www-2-arrecadacao",
     "status": "up",
-    "uptime": "17.80%",
+    "uptime": "73.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "17.80%",
-    "uptimeMonth": "17.80%",
-    "uptimeYear": "17.80%",
-    "time": 1496,
-    "timeDay": 1432,
-    "timeWeek": 1496,
-    "timeMonth": 1496,
-    "timeYear": 1496,
+    "uptimeWeek": "73.38%",
+    "uptimeMonth": "73.38%",
+    "uptimeYear": "73.38%",
+    "time": 1468,
+    "timeDay": 1400,
+    "timeWeek": 1468,
+    "timeMonth": 1468,
+    "timeYear": 1468,
     "dailyMinutesDown": {
       "2025-01-28": 206
     }
@@ -67,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1113,
-    "timeDay": 947,
+    "timeDay": 988,
     "timeWeek": 1113,
     "timeMonth": 1113,
     "timeYear": 1113,
@@ -90,7 +90,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 1011,
+      "2025-01-31": 95,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 334
     }
@@ -112,7 +113,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 1011,
+      "2025-01-31": 95,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 334
     }
@@ -128,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 147,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "time": 167,
+    "timeDay": 150,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -141,16 +143,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-detran",
     "status": "up",
-    "uptime": "41.66%",
-    "uptimeDay": "87.91%",
-    "uptimeWeek": "41.66%",
-    "uptimeMonth": "41.66%",
-    "uptimeYear": "41.66%",
-    "time": 164,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "uptime": "51.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "51.45%",
+    "uptimeMonth": "51.45%",
+    "uptimeYear": "51.45%",
+    "time": 163,
+    "timeDay": 152,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2025-01-29": 1185,
       "2025-01-28": 333
@@ -163,15 +165,15 @@
     "slug": "dns-2-detran",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "13.92%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 140,
+    "timeDay": 140,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2025-01-30": 761,
       "2025-01-29": 1440,
@@ -195,7 +197,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 1011,
+      "2025-01-31": 95,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 330
     }
@@ -217,7 +220,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 1011,
+      "2025-01-31": 95,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 329
     }
