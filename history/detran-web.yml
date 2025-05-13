@@ -1,7 +1,7 @@
 url: https://web.detran.ms.gov.br/detran/validartokenacesso?uid=123456
-status: down
-code: 502
-responseTime: 1021
-lastUpdated: 2025-05-13T20:49:47.713Z
+status: up
+code: 200
+responseTime: 1419
+lastUpdated: 2025-05-13T21:21:17.193Z
 startTime: 2025-01-30T12:39:40.845Z
 generator: Upptime <https://github.com/upptime/upptime>
