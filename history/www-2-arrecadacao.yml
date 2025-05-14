@@ -1,7 +1,7 @@
 url: https://ws-bb.detran.ms.gov.br/ws/ArrecadacaoService?wsdl
-status: down
-code: 404
-responseTime: 2789
-lastUpdated: 2025-05-14T19:09:42.487Z
+status: up
+code: 200
+responseTime: 1438
+lastUpdated: 2025-05-14T19:35:13.951Z
 startTime: 2025-01-30T12:39:38.807Z
 generator: Upptime <https://github.com/upptime/upptime>
