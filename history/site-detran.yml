@@ -1,7 +1,7 @@
 url: https://www.detran.ms.gov.br
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-17T11:20:25.921Z
+status: up
+code: 200
+responseTime: 1030
+lastUpdated: 2025-07-17T11:35:57.206Z
 startTime: 2025-01-30T12:39:33.673Z
 generator: Upptime <https://github.com/upptime/upptime>
