@@ -1,7 +1,7 @@
 url: ns2.detran.ms.gov.br
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-06T20:26:49.515Z
+status: up
+code: 200
+responseTime: 193
+lastUpdated: 2025-10-06T20:38:52.534Z
 startTime: 2025-01-30T12:41:02.415Z
 generator: Upptime <https://github.com/upptime/upptime>
