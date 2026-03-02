@@ -11,10 +11,10 @@
     "uptimeMonth": "98.64%",
     "uptimeYear": "98.92%",
     "time": 2489,
-    "timeDay": 3639,
-    "timeWeek": 3575,
-    "timeMonth": 3153,
-    "timeYear": 2508,
+    "timeDay": 2400,
+    "timeWeek": 3524,
+    "timeMonth": 3168,
+    "timeYear": 2510,
     "dailyMinutesDown": {
       "2026-02-04": 598,
       "2026-01-12": 713,
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.23%",
-    "time": 1360,
-    "timeDay": 1953,
-    "timeWeek": 1454,
-    "timeMonth": 1253,
-    "timeYear": 1375,
+    "time": 1359,
+    "timeDay": 962,
+    "timeWeek": 1463,
+    "timeMonth": 1251,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2026-02-04": 597,
       "2025-12-16": 231,
@@ -96,10 +96,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.17%",
-    "time": 1827,
-    "timeDay": 1642,
-    "timeWeek": 1861,
-    "timeMonth": 1679,
+    "time": 1826,
+    "timeDay": 1228,
+    "timeWeek": 1780,
+    "timeMonth": 1676,
     "timeYear": 1821,
     "dailyMinutesDown": {
       "2026-02-04": 597,
@@ -136,15 +136,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.detran.ms.gov.br.ico",
     "slug": "detran-web",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "95.99%",
-    "time": 1327,
-    "timeDay": 1370,
-    "timeWeek": 1471,
-    "timeMonth": 1314,
+    "time": 1326,
+    "timeDay": 1056,
+    "timeWeek": 1405,
+    "timeMonth": 1315,
     "timeYear": 1348,
     "dailyMinutesDown": {
       "2026-02-04": 596,
@@ -212,7 +212,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 164,
+      "2026-03-02": 152,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -575,8 +576,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -596,7 +596,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 164,
+      "2026-03-02": 152,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -959,8 +960,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -975,8 +975,8 @@
     "uptimeMonth": "98.78%",
     "uptimeYear": "98.93%",
     "time": 174,
-    "timeDay": 194,
-    "timeWeek": 179,
+    "timeDay": 153,
+    "timeWeek": 180,
     "timeMonth": 177,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -997,18 +997,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-detran",
     "status": "down",
-    "uptime": "92.49%",
+    "uptime": "92.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.07%",
-    "uptimeYear": "92.35%",
+    "uptimeMonth": "15.81%",
+    "uptimeYear": "92.08%",
     "time": 177,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 168,
+    "timeMonth": 176,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2026-03-01": 164,
+      "2026-03-02": 153,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -1064,8 +1065,8 @@
     "uptimeMonth": "98.73%",
     "uptimeYear": "98.86%",
     "time": 180,
-    "timeDay": 196,
-    "timeWeek": 182,
+    "timeDay": 149,
+    "timeWeek": 181,
     "timeMonth": 175,
     "timeYear": 182,
     "dailyMinutesDown": {
@@ -1112,7 +1113,8 @@
     "timeMonth": 0,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2026-03-01": 164,
+      "2026-03-02": 153,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -1470,8 +1472,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -1491,7 +1492,8 @@
     "timeMonth": 0,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2026-03-01": 164,
+      "2026-03-02": 153,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -1849,8 +1851,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   }
 ]
